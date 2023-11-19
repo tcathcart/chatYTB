@@ -26,6 +26,7 @@ FIRST_USER_MESSAGE = "Let's begin with a short summary of a video. The summary \
 # VIDEO_ID_2 = "RBzij-MA6A8" # bill maher monologue
 # VIDEO_ID_3 = "Q9qSwDxF6YI" # f1 las vegas highlights
 # VIDEO_ID_4 = "dJZeAAs2V2c" # gordon ramsay making thanksgiving dinner
+# VIDEO_ID_5 = "rEWaqUVac3M" # a clip from Casablanca
 
 def main():
 
