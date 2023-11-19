@@ -2,7 +2,7 @@
 a simple command line chatbot for interacting with transcripts of youtube videos using ChatGPT
 
 # dependencies
-The program is written for Python3 and has two other major dependencies: OpenAI API and an open-source library for accessing transcripts of YouTube videos. Both libraries are available through pip and can be installed using the following command in your terminal from inside the chatYTB directory: `pip install -r requirements.txt`.
+The program is written for Python3 and has two other major dependencies: the OpenAI API and an open-source library for accessing transcripts of YouTube videos. Both libraries are available through pip and can be installed using the following command in your terminal from inside the chatYTB directory: `pip install -r requirements.txt`.
 
 # usage
 `./python chatYTB.py`
